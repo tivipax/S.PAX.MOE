@@ -1,4 +1,4 @@
-# This repo is fork from AoEiuV020/Url-Shorten-Worker
+# Forked from AoEiuV020/Url-Shorten-Worker
 
 # 020短链
 利用Cloudflare Worker实现的简单免费的短链接平台，  
